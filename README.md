@@ -8,4 +8,5 @@ This was the very first assignment with the updated Odin Project curriculum. I l
 **Built with**
 
 • HTML
+
 • CSS
