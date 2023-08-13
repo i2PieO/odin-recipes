@@ -6,5 +6,6 @@ This was the very first assignment with the updated Odin Project curriculum. I l
 
 ## Tech Used 💻
 **Built with**
+
 • HTML
 • CSS
